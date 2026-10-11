@@ -17,10 +17,6 @@ function Instructions() {
         <li>Multiplication (×)</li>
         <li>Division (÷)</li>
       </ul>
-
-      <p className="text-sm text-gray-500 mt-4">
-        If you divide by zero, the screen shows "Error". Click C to start again.
-      </p>
     </div>
   );
 }
